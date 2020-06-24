@@ -1,7 +1,7 @@
 동아리 LightningTalk 발표 자료 모음입니다.
 
 
-1. MVVM
+1. About_MVVM
 
 Dms-iOS 팀스타디 발표 자료입니다.
 
